@@ -58,9 +58,9 @@ Incluye patrones geográficos, operadores líderes, tipos de conectores y capaci
 ---
 
 ### ✨ Author / Autor
-**[Tu Nombre]**  
+**[Fabio López]**  
 *Data Analyst | Python | Visualization | Sustainable Mobility*  
-📧 [tuemail@example.com] • 🌐 [linkedin.com/in/tuperfil]
+📧 [fabio.lopez.analyst@gmail.com] • 🌐 [https://www.linkedin.com/in/fabiolopezt/]
 
 ---
 
