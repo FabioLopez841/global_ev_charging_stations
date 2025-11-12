@@ -1,22 +1,16 @@
 # ⚡ EV Charging Stations Data Analysis | Análisis de Estaciones de Carga EV
-
-**Bilingual Project | Proyecto Bilingüe 🇪🇸🇬🇧**
-
 ---
+##  Overview / Resumen
 
-## 🎯 Overview / Resumen
-
-**EN:**  
 Exploratory Data Analysis (EDA) of global Electric Vehicle (EV) charging stations using Python.  
 Includes insights on geographic distribution, key operators, connector types, and station capacity.
 
-**ES:**  
 Análisis exploratorio de datos (EDA) de estaciones de carga de vehículos eléctricos (EV) a nivel global.  
 Incluye patrones geográficos, operadores líderes, tipos de conectores y capacidad promedio de carga.
 
 ---
 
-## 🔄 Workflow Funnel / Embudo de Trabajo
+##  Workflow Funnel / Embudo de Trabajo
 
 | Step / Paso | Description / Descripción |
 |--------------|----------------------------|
@@ -28,24 +22,24 @@ Incluye patrones geográficos, operadores líderes, tipos de conectores y capaci
 
 ---
 
-## 📊 Key Insights / Principales Hallazgos
+##  Key Insights / Principales Hallazgos
 
-- 🌍 **Main countries:** Canada, USA, Spain, Malaysia.  
+-  **Main countries:** Canada, USA, Spain, Malaysia.  
   **Países líderes:** Canadá, EE.UU., España, Malasia.  
-- 🏢 **Top operators:** Tesla, Electra, IONITY, ChargePoint.  
-- ⚙️ **Average connectors:** 1–3 per station (mostly small/medium).  
-- 🔌 **Connector trend:** CCS (Type 2) is the global standard.  
-- 🗺️ **Coverage:** High density in cities; rural areas underdeveloped.
+-  **Top operators:** Tesla, Electra, IONITY, ChargePoint.  
+-  **Average connectors:** 1–3 per station (mostly small/medium).  
+-  **Connector trend:** CCS (Type 2) is the global standard.  
+-  **Coverage:** High density in cities; rural areas underdeveloped.
 
 ---
 
-## 🧰 Tech Stack / Herramientas
+##  Tech Stack / Herramientas
 
 `Python` · `Pandas` · `Matplotlib` · `Seaborn` · `Folium` · `VSCode`
 
 ---
 
-## 🚀 Next Steps / Próximos Pasos
+##  Next Steps / Próximos Pasos
 
 **EN:**  
 - Add power capacity (kW) and traffic data.  
@@ -57,7 +51,7 @@ Incluye patrones geográficos, operadores líderes, tipos de conectores y capaci
 
 ---
 
-### ✨ Author / Autor
+###  Author / Autor
 **[Fabio López]**  
 *Data Analyst | Python | Visualization | Sustainable Mobility*  
 📧 [fabio.lopez.analyst@gmail.com] • 🌐 [https://www.linkedin.com/in/fabiolopezt/]
