@@ -1,7 +1,11 @@
 # ⚡ EV Charging Stations Data Analysis / Análisis de Estaciones de Carga para Vehículos Eléctricos
 
 ---
+## 🖼️ Project Hero Image
 
+![EV Charging Stations Project Banner](https://i.imgur.com/omdfY6L.png)
+
+---
 ## 📌 Overview (EN)  
 This project presents a comprehensive Exploratory Data Analysis (EDA) of global Electric Vehicle (EV) charging stations using Python.  
 The analysis covers geographic distribution, operator concentration, connector standards, and charging capacity to identify infrastructure trends and growth opportunities.
