@@ -3,7 +3,7 @@
 ---
 ## 🖼️ Project Hero Image
 
-![EV Charging Stations Project Banner](https://i.imgur.com/omdfY6L.png)
+![EV Charging Stations Project Banner](https://i.imgur.com/RiJbX9A.png)
 
 ---
 ## 📌 Overview (EN)  
