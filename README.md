@@ -35,21 +35,10 @@ Incluye patrones geográficos, operadores líderes, tipos de conectores y capaci
 
 ##  Tech Stack / Herramientas
 
-`Python` · `Pandas` · `Matplotlib` · `Seaborn` · `Folium` · `VSCode`
+`Python` · `Pandas` · `Matplotlib` · `Seaborn` · `VSCode`
 
 ---
 
-##  Next Steps / Próximos Pasos
-
-**EN:**  
-- Add power capacity (kW) and traffic data.  
-- Build an interactive dashboard (Power BI / Streamlit).  
-
-**ES:**  
-- Agregar potencia de carga (kW) y datos de tráfico.  
-- Crear un dashboard interactivo (Power BI / Streamlit).
-
----
 
 ###  Author / Autor
 **[Fabio López]**  
