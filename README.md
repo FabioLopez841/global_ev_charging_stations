@@ -1,5 +1,4 @@
-# ⚡ EV Charging Stations Data Analysis  
-# ⚡ Análisis de Estaciones de Carga para Vehículos Eléctricos
+# ⚡ EV Charging Stations Data Analysis / Análisis de Estaciones de Carga para Vehículos Eléctricos
 
 ---
 
