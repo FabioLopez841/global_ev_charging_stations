@@ -1,7 +1,6 @@
 # ⚡ EV Charging Stations Data Analysis / Análisis de Estaciones de Carga para Vehículos Eléctricos
 
 ---
-## 🖼️ Project Hero Image
 
 ![EV Charging Stations Project Banner](https://imgur.com/H7vxFfn.png)
 
